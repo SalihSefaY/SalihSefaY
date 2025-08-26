@@ -1,15 +1,14 @@
 # 👋 Merhaba! Ben Sefa
 
 💻 Aspiring Full-Stack Developer | React & Node.js | C# & .NET Learner  
-🎮 Game Development Enthusiast | Interaktif web sayfaları ve küçük oyun projeleri geliştiriyorum  
-🔐 Interested in Cybersecurity & Ethical Hacking  
+🎮 Oyun Hikaye Kurgusu ve İnteraktif Web Projeleri Üzerine Çalışıyorum  
 
 ---
 
 ## 🧠 Hakkımda
-İnteraktif web sayfaları yapmaktan zevk alıyorum, React öğreniyorum ve çok istekliyim.  
-Hedefim **Full-Stack Developer** olmak ve kendimi çok üst düzeye çıkarmak.  
-C# ve .NET üzerine az da olsa bilgim var.  
+İnteraktif web sayfaları geliştirmekten zevk alıyorum ve React öğreniyorum.  
+Hedefim **Full-Stack Developer** olarak kendimi çok üst düzeye çıkarmak.  
+C# ve .NET üzerine de temel bilgim var ve hala öğreniyorum.  
 
 ---
 
@@ -26,8 +25,7 @@ C# ve .NET üzerine az da olsa bilgim var.
 
 ## 🌱 Öğrenmeye Açığım
 - Temiz kod yazımı  
-- Yazılım mimarisi  
-- Performans optimizasyonları  
+- Yazılım mimarisi   
 - Ölçeklenebilir sistem tasarımı  
 - Takım içi iş birliği  
 
@@ -36,10 +34,10 @@ C# ve .NET üzerine az da olsa bilgim var.
 ## 📂 Öne Çıkan Projeler
 - [Todo App (React)](https://github.com/SalihSefaY/My-Todo-App) – Basit ama interaktif bir yapılacaklar uygulaması  
 - Hava durumu uygulaması (React + OpenWeather API)  
-- Küçük oyun ve interaktif web projeleri  
+- Küçük interaktif web projeleri ve oyun hikaye kurgusu çalışmaları  
 
 ---
 
 ## 📫 Bana Ulaş
-- [LinkedIn](https://www.linkedin.com/in/salihsefa)  
-- Email: sefa@example.com
+- [LinkedIn]([https://www.linkedin.com/in/salihsefa](https://www.linkedin.com/in/salih-sefa-y%C4%B1lmaz-5230a6366/))  
+- Email: salihsefay2002@hotmail.com
