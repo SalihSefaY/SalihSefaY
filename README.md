@@ -33,7 +33,7 @@ C# ve .NET üzerine de temel bilgim var ve hala öğreniyorum.
 
 ## 📂 Öne Çıkan Projeler
 - [Todo App (React)](https://github.com/SalihSefaY/My-Todo-App) – Basit ama interaktif bir yapılacaklar uygulaması  
-- Hava durumu uygulaması (React + OpenWeather API)  
+- [StudyFy (React)] (https://github.com/SalihSefaY/StudyFy-Projects.git)- Öğrenciler için verimlilik 
 - Küçük interaktif web projeleri ve oyun hikaye kurgusu çalışmaları  
 
 ---
