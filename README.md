@@ -33,7 +33,7 @@ C# ve .NET üzerine de temel bilgim var ve hala öğreniyorum.
 
 ## 📂 Öne Çıkan Projeler
 - [Todo App (React)](https://github.com/SalihSefaY/My-Todo-App) – Basit ama interaktif bir yapılacaklar uygulaması  
-- [StudyFy (React)] (https://github.com/SalihSefaY/StudyFy-Projects.git)- Öğrenciler için verimlilik 
+- [StudyFy-Projects]([https://github.com/SalihSefaY/My-Todo-App])- Öğrenciler için verimlilik 
 - Küçük interaktif web projeleri ve oyun hikaye kurgusu çalışmaları  
 
 ---
